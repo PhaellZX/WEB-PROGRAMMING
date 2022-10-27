@@ -1,3 +1,3 @@
-# JAVASCRIPT
+# WEB PROGRAMMING
 
-Practices and exercises with javascript
+folders with html, css and javascript files
